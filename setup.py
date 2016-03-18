@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mkdocs-extensions',
-    version='0.1.1',
+    version='0.1.2',
 
     author='Duan Hongyi',
     author_email='duanhongyi@doopai.com',
